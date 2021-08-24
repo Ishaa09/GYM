@@ -1,0 +1,14 @@
+
+.body {
+    font-family: poppin;
+    margin: 0;
+}
+.about-section {
+    padding: 50px;
+    text-align: center;
+    background-color: #FFF;
+    color: #131313
+}
+.about-section h1{
+    text-align: center;
+}
